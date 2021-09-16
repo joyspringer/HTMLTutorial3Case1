@@ -1,0 +1,25 @@
+/*
+    Take It Away Wireless
+    Layout Style Sheet
+
+    Author: Joy Springer
+
+*/
+
+/* body */
+
+body {
+      background-color: #e6ebfa;
+      font-family: Arial, sans-serif;
+      font-size: 1.2em;
+  }
+
+/* Heading Styles */
+
+  h3 {
+      color: maroon;
+      font-family: Times, Times New Roman;
+      font-size: 1.3em;
+      Text-align: right;
+      text-transform: uppercase;
+  }
